@@ -1,4 +1,4 @@
-# Sample Code from C
+# Jaro-Winkler alghoritm in C
 
 While using the book „Pan Tadusz” in txt format I am doing these tasks:
 
